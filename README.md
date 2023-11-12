@@ -1,4 +1,9 @@
-##Proyecto ASP.NET CORE 6 CAPAS API BUSINESS Y DATAACCESS
+##Proyecto ASP.NET CORE 6. 
+
+
+Capas: API, BUSINESS Y DATAACCESS
+
+
 Descripción
 Prueba tecnica FLYR capa BackEnd que consume API NewShore https://recruiting-api.newshore.es/api/flights/1 - Rutas multiples
 
