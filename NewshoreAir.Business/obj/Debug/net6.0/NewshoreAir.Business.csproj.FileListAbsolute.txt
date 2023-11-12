@@ -1,0 +1,15 @@
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\bin\Debug\net6.0\NewshoreAir.Business.deps.json
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\bin\Debug\net6.0\NewshoreAir.Business.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\bin\Debug\net6.0\NewshoreAir.Business.pdb
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\bin\Debug\net6.0\NewshoreAir.DataAccess.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\bin\Debug\net6.0\NewshoreAir.DataAccess.pdb
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.csproj.AssemblyReference.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.AssemblyInfoInputs.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.AssemblyInfo.cs
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.csproj.CoreCompileInputs.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.csproj.CopyComplete
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\refint\NewshoreAir.Business.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\NewshoreAir.Business.pdb
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\NewshoreAir.Business\obj\Debug\net6.0\ref\NewshoreAir.Business.dll

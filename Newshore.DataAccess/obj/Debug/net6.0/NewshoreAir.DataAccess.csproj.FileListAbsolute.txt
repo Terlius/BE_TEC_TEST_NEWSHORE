@@ -1,0 +1,12 @@
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\bin\Debug\net6.0\NewshoreAir.DataAccess.deps.json
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\bin\Debug\net6.0\NewshoreAir.DataAccess.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\bin\Debug\net6.0\NewshoreAir.DataAccess.pdb
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.csproj.AssemblyReference.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.AssemblyInfoInputs.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.AssemblyInfo.cs
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\refint\NewshoreAir.DataAccess.dll
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\NewshoreAir.DataAccess.pdb
+C:\Users\matiu\OneDrive\Desktop\General\Personal\Cursos\TEC_TEST_NEWSHORE\BE_TEC_TEST_NEWSHORE\Newshore.DataAccess\obj\Debug\net6.0\ref\NewshoreAir.DataAccess.dll
